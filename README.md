@@ -1,10 +1,10 @@
 # 🌊 IcedWave Cleaner (перезалив на русском)
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/IcedWave/Icedwave-cleaner?style=for-the-badge&color=0078d7" alt="Release">
-  <img src="https://img.shields.io/github/downloads/IcedWave/Icedwave-cleaner/total?style=for-the-badge&color=2ea44f" alt="Downloads">
-  <img src="https://img.shields.io/github/stars/IcedWave/Icedwave-cleaner?style=for-the-badge&color=dfb317" alt="Stars">
-  <img src="https://img.shields.io/github/license/IcedWave/Icedwave-cleaner?style=for-the-badge&color=red" alt="License">
+  <img src="https://img.shields.io/github/v/release/icedwave1/Icedwave-cleaner?style=for-the-badge&color=0078d7" alt="Release">
+  <img src="https://img.shields.io/github/downloads/icedwave1/Icedwave-cleaner/total?style=for-the-badge&color=2ea44f" alt="Downloads">
+  <img src="https://img.shields.io/github/stars/icedwave1/Icedwave-cleaner?style=for-the-badge&color=dfb317" alt="Stars">
+  <img src="https://img.shields.io/github/license/icedwave1/Icedwave-cleaner?style=for-the-badge&color=red" alt="License">
 </p>
 
 ---
