@@ -46,7 +46,7 @@
 
 ## 🚀 Как запустить?
 <p align="right">
-  <img src="https://img.shields.io/github/downloads/IcedWave/Icedwave-cleaner/total?style=for-the-badge&color=2ea44f" alt="Downloads">
+  <img src="https://img.shields.io/github/downloads/icedwave1/Icedwave-cleaner/total?style=for-the-badge&color=2ea44f" alt="Downloads">
 </p>
 
 <details>
