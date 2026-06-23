@@ -1,0 +1,324 @@
+здесь находится весь список приложений, добавленных в очиститель (пополняется)
+
+Стриминг и захват
+1. Streamlabs Desktop
+2. Twitch (Клиент)
+
+Разработка, ИИ и мобильные устройства
+3. Pip (Кэш библиотек Python)
+4. Hugging Face (Кэш моделей ИИ)
+5. Node.js (Кэш npm)
+6. Android (ADB и эмуляторы)
+7. Android Studio
+8. Кэш Gradle
+
+Офис и прочее
+9. Microsoft Office (Кэш файлов)
+10. TikTok (Windows-клиент)
+
+Системные обновления
+11. Кэш обновлений Windows
+12. Windows Installer (Временный кэш патчей)
+
+Браузеры
+13. Яндекс Браузер
+14. Google Chrome
+15. Microsoft Edge
+16. Opera / Opera GX
+17. Mozilla Firefox
+
+Дополнительные мессенджеры
+18. VK Мессенджер
+19. WhatsApp Desktop
+20. Viber
+21. Skype
+
+Игровые лаунчеры и игры
+22. VK Play (Игровой центр)
+23. Lesta Game Center (Танки)
+24. Battle.net Launcher
+25. EA App
+
+Софт и мультимедиа
+26. CapCut (Монтаж)
+27. OBS Studio (Кэш виджетов)
+28. Spotify
+
+Игры и лаунчеры (доп)
+29. Riot Client (Valorant / LoL)
+30. Ubisoft Connect
+31. GOG Galaxy
+32. Minecraft (TLauncher кэш)
+33. Faceit Client
+
+Профессиональный софт и дизайн
+34. Adobe Premiere Pro (Медиа-кэш)
+35. Adobe Photoshop (Кэш плагинов)
+36. Figma Desktop
+37. Blender (Временные файлы)
+
+Среды разработки (для кодеров)
+38. VS Code (Кэш данных)
+39. PyCharm / JetBrains кэш
+
+Облачные хранилища
+40. Яндекс Диск (Кэш превью)
+41. Облако Mail.ru
+42. OneDrive (Временный кэш)
+
+Браузеры и связь (доп)
+43. Brave Browser
+44. Vivaldi
+45. Atom (Браузер от Mail.ru)
+46. Zoom (Кэш конференций)
+
+Системные утилиты и загрузчики
+47. qBittorrent (Логи и кэш)
+48. uTorrent (Временный хлам)
+49. Эмуляторы BlueStacks / LDPlayer
+50. Системный Temp
+51. Кэш Steam
+52. Кэш Telegram
+53. Кэш Discord
+54. Яндекс Музыка
+55. Epic Games Launcher
+56. Roblox
+57. NVIDIA Графический кэш
+58. AMD Adrenaline кэш
+59. Intel Графический кэш
+60. Папка Загрузки (Downloads)
+61. Corporate Bin (Корзина)
+
+Глубокая очистка Windows
+62. Кэш журналов и логов событий (Event Logs)
+63. Архив отчетов об ошибках Windows (WER)
+64. Кэш шрифтов Windows
+
+Игры и лаунчеры (дополнительно)
+65. Genshin Impact / Honkai (Кэш и логи Hoyoverse)
+66. Rockstar Games Launcher (Логи и кэш GTA V)
+67. Wargaming.net (Кэш логов World of Tanks)
+
+Стриминг и общение
+68. OBS Studio (Старые логи трансляций)
+69. TeamSpeak 3 Client (Кэш икон и серверов)
+70. Elements / Matrix (Кэш мессенджера)
+
+Софт и инструменты
+71. uTorrent / WebTorrent (Кэш веб-интерфейса)
+72. GeForce Experience (Кэш загрузок драйверов)
+73. Steam (Кэш загрузок обновлений игр)
+
+CAD, инженерный и 3D софт
+74. КОМПАС-3D (Логи и бэкапы софта)
+75. AutoCAD (Кэш графики и веб-служб)
+76. SolidWorks (Краш-дампы и отчеты)
+77. 3ds Max / Maya (Кэш UI и плагинов)
+78. Unreal Engine (Кэш шейдеров DDC и Zen)
+79. Unity Editor (Глобальный кэш пакетов)
+80. CorelDRAW (Временные загрузки софта)
+
+Дополнительные браузеры
+81. Tor Browser
+82. LibreWolf Browser
+83. Waterfox Browser
+84. Pale Moon Browser
+85. Maxthon Browser
+86. Comodo Dragon
+87. SeaMonkey Browser
+88. Epic Privacy Browser
+
+Корпоративные и доп. мессенджеры
+89. Slack
+90. Microsoft Teams
+91. Signal Messenger
+92. WeChat Desktop
+93. LINE Messenger
+94. ICQ New / VK Teams
+95. Cisco Webex
+
+Почтовые клиенты
+96. Mozilla Thunderbird
+97. Mailbird (Почта)
+98. Skype for Business
+
+Инструменты разработки и DEV-кэш
+99. Git (Системный кэш)
+100. Docker Desktop (Контексты)
+101. Go Language (Кэш компиляции)
+102. GitHub Desktop App
+103. Arduino IDE
+104. Sublime Text (Кэш)
+105. Notepad++ (Бэкапы сессий)
+
+Виртуализация
+106. Oracle VirtualBox (Логи)
+107. VMware Workstation
+
+Графика, аудио и видеомонтаж
+108. Adobe Illustrator
+109. Adobe After Effects
+110. Adobe Lightroom
+111. Adobe Audition
+112. DaVinci Resolve
+113. Sony Vegas Pro (Временные файлы)
+114. GIMP (Кэш текстур и кистей)
+115. Inkscape
+116. Audacity (Данные сессий)
+
+Медиаплееры и серверы
+117. VLC Media Player (Кэш обложек)
+118. KMPlayer
+119. PotPlayer
+120. Plex Media Server
+121. HandBrake (Логи кодирования)
+
+Гейминг, лаунчеры и эмуляторы
+122. Xbox App / Game Pass (Кэш темпа)
+123. itch.io Launcher
+124. Paradox Interactive Launcher
+125. CurseForge App
+126. Overwolf
+127. League of Legends (Логи игры)
+128. GameLoop Emulator (PUBG Mobile)
+129. osu! Game (Логи и реплеи)
+130. Cyberpunk 2077 (CDPR Launcher)
+
+Софт для периферии и девайсов
+131. Razer Synapse
+132. Logitech G HUB
+133. Corsair iCUE
+134. SteelSeries GG
+
+Удаленный доступ и сеть
+135. TeamViewer
+136. AnyDesk (Кэш превью)
+
+Антивирусы и безопасность
+137. Kaspersky Lab (Логи отчетов)
+138. Malwarebytes
+
+Карты и навигация
+139. Google Earth Pro
+
+Браузеры (СНГ и Китай)
+140. Cent Browser
+141. 360 Safe Browser (Китай)
+142. QQ Browser (Tencent)
+143. Sogou High-Speed Browser
+144. Baidu Browser
+145. Amigo Browser (Амиго)
+146. Sputnik Browser (Спутник)
+147. Orbitum Browser
+148. Uran Browser (uCoz)
+149. Elements Browser (Яндекс)
+150. Yandex Start Desktop Wrapper
+151. K-Meleon Browser
+
+Офисный, корпоративный и гос-софт
+152. 1С:Предприятие (Кэш конфигураций)
+153. МойОфис (MyOffice)
+154. Р7-Офис (R7-Office)
+155. WPS Office (Kingsoft)
+156. КриптоПро CSP (CryptoPro)
+157. Битрикс24 (Bitrix24 Desktop)
+158. 1С-Битрикс: Корпоративный портал
+159. DingTalk (Alibaba Work)
+160. Feishu / Lark (ByteDance)
+161. WeCom (WeChat Work)
+162. 2GIS (2ГИС Карты)
+163. Kaspi Pay Desktop Helper (Казахстан)
+164. Gitee DevTools App (Китай)
+
+Мессенджеры, видеосвязь и соцсети
+165. Tencent QQ
+166. Пачка (Pachca Messenger)
+167. Компас Мессенджер (Compass)
+168. TamTam (ТамТам от Mail.ru)
+169. Mail.ru Агент
+170. TrueConf (Видеосвязь РФ)
+171. МТС Линк (Webinar.ru)
+172. SberJazz (СберДжаз)
+173. Яндекс Телемост
+174. Vinteo Видеоконференции
+175. Douyin Desktop (TikTok Китая)
+176. Kuaishou Desktop
+177. Weibo Desktop Client
+178. Baidu Tieba Client
+179. Zhihu Desktop App
+180. VK Video (ВКонтакте Видео)
+181. Yandex Messenger (Яндекс Мессенджер)
+182. Sintel Corporate Messenger
+183. Squad Business Chat
+184. TenChat (Бизнес-соцсеть)
+
+Музыка, стриминг и кинотеатры
+185. NetEase Cloud Music
+186. QQ Music
+187. Kugou Music
+188. Kuwo Music
+189. Xiami Music
+190. Bilibili Desktop Client
+191. Youku Client
+192. iQiyi Client
+193. Tencent Video
+194. Wink (Ростелеком)
+195. Кинопоиск Desktop
+196. Okko Кинотеатр
+197. Ivi Онлайн-кинотеатр
+198. Premier (Видеосервис)
+199. Rutube Desktop Launcher
+200. Kion (МТС ТВ)
+201. More.tv
+202. Smotrim (Смотрим ВГТРК)
+203. Xunlei Kankan Player
+204. ComboPlayer (ТВ и Радио)
+
+Загрузчики, торренты, облака и системный софт
+205. Download Master (WestByte)
+206. Zona (Фильмы и торренты)
+207. MediaGet Client
+208. Ace Stream (Torrent Stream)
+209. Baidu Netdisk (Baidu Wangpan)
+210. Xunlei Download Manager
+211. SberDisk (СберДиск)
+212. Облако Kcell (Казахстан)
+213. FlylinkDC++
+214. StrongDC++
+215. ApexDC++
+216. Shareman P2P
+217. RadioCent (Радио-плеер)
+218. Dr.Web Antivirus (Логи)
+219. 360 Total Security (Читка кэша)
+220. AdGuard Desktop App
+221. Internet Download Manager (IDM)
+222. Free Download Manager (FDM)
+223. BitTorrent Client
+224. WinRAR (Временная распаковка)
+225. 7-Zip (История и кеш)
+226. WeMod (Трейнеры и моды)
+227. Cheat Engine (Кэш таблиц)
+228. Garena Client
+229. MTS Connection Manager
+230. MegaFon Modem
+231. Beeline Internet Helper
+232. AIDA64 (Отчеты систем)
+233. Victoria HDD/SSD
+234. Yandex Games Desktop wrapper
+
+Игры, локальные лаунчеры и эмуляторы
+235. Gaijin Launcher (War Thunder / Crossout)
+236. Escape from Tarkov (BSG Launcher)
+237. 4Game Launcher (Innova - L2/Aion)
+238. HoyoPlay Launcher (Honkai/ZZZ)
+239. NetEase Games Launcher
+240. Tencent WeGame Launcher
+241. Perfect World Games Launcher
+242. Tanki Online Client (Танки Онлайн)
+243. Allods Team Launcher (Аллоды)
+244. RuStore Emulator Sync Module
+245. MEmu Play Emulator
+246. SmartGaGa Emulator
+247. Sogou Pinyin (Кэш ввода Китая)
+248. Baidu Pinyin (Кэш ввода Китая)
+249. Anilibria Desktop Client
